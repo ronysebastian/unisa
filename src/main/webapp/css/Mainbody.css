@@ -1,0 +1,49 @@
+#Container {
+
+	/*width: 800px;*/
+	height:auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 11px;
+	margin-bottom: 21px;
+
+}
+
+#Header {
+	height:150px;
+	background-color: #CCC;
+
+}
+
+#Menu {
+
+	height:60px;
+	background: #666;
+}
+
+#SideBar {
+	width:13%;
+	height: 500px;
+	background-color: #0C0;
+	float:left;
+}
+
+#MainBody {
+/*width:650px;*/
+	height: 440px;
+	background-color: #03C;
+ /*   float: right;
+    display:inline; */
+}
+
+#Footer {
+	height:100px;
+	
+	background: #CCC;
+	clear:both;
+}
+
+body {
+
+	margin: 0;
+}
